@@ -1,0 +1,11 @@
+{
+  "name": "nme",
+  "url": "https://github.com/scabwort/hxpool",
+  "license": "MIT",
+  "tags": [ "cpp", "neko" ],
+  "description": "haxe thread pool",
+  "version": "1.0.0",
+  "releasenote": "",
+  "contributors": [ "ScottLee"],
+  "dependencies": {}
+}
